@@ -1,0 +1,108 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+  .header{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.Biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+}
+.half-width img{
+    width: 120%;
+}
+h1{
+    color: deeppink;
+    font-size: 50px;
+    
+}
+h2{
+    font-weight: 500;
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+
+.position{
+    padding-top: 8%;
+    padding-left: 10%
+}
+section{
+    height: 500px;
+    margin-bottom: 100px;
+}
+.link-button{
+    text-decoration:none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(deeppink, tomato);
+    
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    padding-left: 5%;
+
+}
+.one-third-width{
+    width: 30%;
+    float: left;
+    padding-right: 2%;
+}
+.one-third-width img{
+    width: 100%;
+}
+#center{
+    text-align: justify;
+    padding-bottom: 3%;
+}
+.footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.client{
+    text-align: center;
+}
+#high-light{
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+}
+#founder-highlight{
+    color: dimgray;
+    font-size: 10px;
+}
+.feeback p{
+    margin-top: 2%;
+    color: black;
+    margin-left: 33%;
+    margin-right: 33%;   
+}
+.communicate{
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 27%;
+    margin-right: 27%;
+    background-color: deeppink;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    
+}
+#email-highlight{
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
